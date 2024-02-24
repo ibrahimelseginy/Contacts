@@ -1,4 +1,4 @@
-import 'package:contacts/contact.dart';
+import 'package:contacts/data_class_contact.dart';
 import 'package:flutter/material.dart';
 
 class ContactCard extends StatefulWidget {
